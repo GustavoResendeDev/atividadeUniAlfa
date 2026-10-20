@@ -323,7 +323,7 @@ header.scrolled .logoHeader {
 
 /*INICIO SEÇÃO SERVIÇOS*/
 .servicos {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../img/serviços.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../img/servicos.png');
   background-repeat: no-repeat;
   background-position: center bottom; 
   background-size: cover; 
@@ -472,7 +472,7 @@ header.scrolled .logoHeader {
 /*INICIO SEÇÃO LOCALIZAÇÃO*/
 .local {
   background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), 
-  url('../img/endereçonovaera.png');
+  url('../img/endereconovaera.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
