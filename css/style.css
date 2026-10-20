@@ -103,7 +103,7 @@ header.scrolled .logoHeader {
 /*INICIO SEÇÃO HERO*/
 .hero {
   background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)),
-  url("../image/herosectionimg.png");
+  url('../img/herosectionimg.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -164,7 +164,7 @@ header.scrolled .logoHeader {
     display: inline-block;
     width: 8px;
     height: 8px;
-    background-color: #099b0c;
+    background-color: #ffffff;
     border-radius: 50%;
 }
 
@@ -231,11 +231,11 @@ header.scrolled .logoHeader {
   z-index: 2;
 }
 
-.cartao1 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../image/sobreimg01.png');
+.cartao1 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../img/sobreimg01.png');
 }
-.cartao2 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../image/sobreimg02.png'); }
+.cartao2 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../img/sobreimg02.png'); }
 
-.cartao3 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../image/sobreimg03.png'); }
+.cartao3 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../img/sobreimg03.png'); }
 
 .cartao.ativo {
   opacity: 1;
@@ -323,7 +323,7 @@ header.scrolled .logoHeader {
 
 /*INICIO SEÇÃO SERVIÇOS*/
 .servicos {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../image/serviços.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../img/serviços.png');
   background-repeat: no-repeat;
   background-position: center bottom; 
   background-size: cover; 
@@ -472,7 +472,7 @@ header.scrolled .logoHeader {
 /*INICIO SEÇÃO LOCALIZAÇÃO*/
 .local {
   background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), 
-  url('../image/Endereçonovaera.png');
+  url('../img/endereçonovaera.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
