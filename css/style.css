@@ -103,7 +103,7 @@ header.scrolled .logoHeader {
 /*INICIO SEÇÃO HERO*/
 .hero {
   background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)),
-  url("image/herosectionimg.png");
+  url("../image/herosectionimg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -231,11 +231,11 @@ header.scrolled .logoHeader {
   z-index: 2;
 }
 
-.cartao1 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('image/sobreimg01.png');
+.cartao1 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../image/sobreimg01.png');
 }
-.cartao2 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('image/sobreimg02.png'); }
+.cartao2 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../image/sobreimg02.png'); }
 
-.cartao3 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('image/sobreimg03.png'); }
+.cartao3 { background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../image/sobreimg03.png'); }
 
 .cartao.ativo {
   opacity: 1;
@@ -323,7 +323,7 @@ header.scrolled .logoHeader {
 
 /*INICIO SEÇÃO SERVIÇOS*/
 .servicos {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('image/serviços.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), url('../image/serviços.png');
   background-repeat: no-repeat;
   background-position: center bottom; 
   background-size: cover; 
@@ -472,7 +472,7 @@ header.scrolled .logoHeader {
 /*INICIO SEÇÃO LOCALIZAÇÃO*/
 .local {
   background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)), 
-  url('image/Endereço nova era.png');
+  url('../image/Endereço nova era.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
