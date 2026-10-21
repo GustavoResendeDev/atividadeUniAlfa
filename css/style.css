@@ -324,7 +324,7 @@ header.scrolled .logoHeader {
 /*INICIO SEÇÃO SERVIÇOS*/
 .servicos {
   background-image: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)),
-  url('../img/servicos.png');
+  url('contaUniAlfa/img/servicos.png');
   background-repeat: no-repeat;
   background-position: center bottom; 
   background-size: cover; 
@@ -473,7 +473,7 @@ header.scrolled .logoHeader {
 /*INICIO SEÇÃO LOCALIZAÇÃO*/
 .local {
   background: linear-gradient(rgba(0, 0, 0, 0.752), rgba(0, 0, 0, 0.752)),
-  url('../img/enderecoteste.png');
+  url('contaUniAlfa/img/enderecoteste.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
